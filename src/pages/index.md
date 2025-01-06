@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Chandler Villacruz, Senior Marketing Executive
+pageTitle: Chris Conover – Pearl River Business Owner
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,18 +12,21 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
-  alt: Chandler Villacruz
+  src: /img/6f7f91dc-87e5-4da3-8614-8917a93af3f9.jpg
+  alt: Chris Conover - Background
   caption: null
 header: Chandler Villacruz
-metaDescription: Personal website of Chandler Villacruz, Senior Marketing Executive.
+metaDescription: Chris Conover, a seasoned professional with twenty-five years
+  of experience in the financial services sector, embarked on his
+  entrepreneurial journey in 2008 by establishing Hudson Valley Wealth
+  Management.
 published: true
 profileButton:
   link: /profile
-  label: View Profile
+  label: About
 blogButton:
   link: /blog
-  label: Visit My Blog
+  label: Latest Blog
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
@@ -31,4 +34,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](<>)**.
+Chris Conover, a seasoned professional with twenty-five years of experience in the financial services sector, embarked on his entrepreneurial journey in 2008 by establishing Hudson Valley Wealth Management. In his dual role as President and Chief Investment Officer (CIO), Mr. Conover has spearheaded the remarkable growth of the company, achieving a noteworthy 125 percent year-over-year increase in assets since its inception.
