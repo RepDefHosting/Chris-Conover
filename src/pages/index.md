@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/6f7f91dc-87e5-4da3-8614-8917a93af3f9.jpg
+  src: /img/979480fa-57b7-4472-b69c-e6eee1285d11.jpg
   alt: Chris Conover - Background
   caption: null
 header: Chandler Villacruz
