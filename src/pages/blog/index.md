@@ -3,7 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: Blog Listing Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: Beyond his professional pursuits, Mr. Conover maintains a keen
+  interest in emerging trends such as Bitcoin, AI, and AI-focused stocks like
+  Nvidia and many others. He also has a strong understanding of both commodities
+  and commodity equity investments.
 published: true
 schemaType: WebPage
 header: Blog
@@ -13,5 +16,5 @@ featuredImage:
   caption: null
 profileButton:
   link: /profile
-  label: View Profile
+  label: View Bio
 ---
