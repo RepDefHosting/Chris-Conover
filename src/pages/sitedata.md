@@ -1,25 +1,25 @@
 ---
 templateKey: site-data
 published: true
-name: Chandler Villacruz
-jobTitle: Senior Marketing Executive
-location: San Francisco, California, USA
+name: Chris Conover
+jobTitle: Chief Investment Officer
+location: Pearl River, NY
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Chandler Villacruz
-siteUrl: https://mpdsbuild.netlify.app/
+  src: /img/chris-conover-a-seasoned-professional-with-twenty-five-years-of-experience-in-the-financial-services-sector.jpg
+  alt: Chris Conover
+siteUrl: https://www.chris-conover.com/
 socialLinks:
   twitter:
-    url: https://www.x.com
-    label: Visit
+    url: https://twitter.com/hudcos
+    label: Twitter
     show: true
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
-    label: Visit
+    url: https://www.linkedin.com/in/chris-conover
+    label: LinkedIn
     show: true
   pinterest:
     url: null
