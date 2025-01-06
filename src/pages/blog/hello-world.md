@@ -2,46 +2,42 @@
 excerpt: Hello World Hello World Hello World
 templateKey: blog-post
 schemaType: BlogPosting
-pageTitle: Title of blog Lorem ipsum dolor sit amet
-metaDescription: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Maecenas non interdum nulla, in pulvinar urna. Sed pellentesque, augue eu
-  condimentum iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Maecenas non
+pageTitle: Conducting a Youth Sports Practice
+metaDescription: According to Project Play, a collaboration between the Aspen
+  Institute and the Sports and Society Program, 54 percent of American youth
+  from the ages of six to 17 engaged in team sports or took part in sports
+  lessons in 2022. Youth sports provide children with a range of benefits, from
+  improved health to increased opportunities for socialization. Local youth
+  sports programming relies on the support of adults serving in various roles,
+  including youth sports coaches.
 published: true
 date: 2024-12-29T12:36:52.842Z
-teaser: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non
-  interdum nulla, in pulvinar urna. Sed pellentesque, augue eu condimentum
-  iaculis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-  non...
+teaser: According to Project Play, a collaboration between the Aspen Institute
+  and the Sports and Society Program, 54 percent of American youth from the ages
+  of six to 17 engaged in team sports or took part in sports lessons in 2022.
+  Youth sports provide children with a range of benefits, from improved health
+  to increased opportunities for socialization. Local youth sports programming
+  relies on the support of adults serving in various roles, including youth
+  sports coaches.
 featuredImage:
-  src: /img/default-blog-thumb-01.webp
+  src: /img/pexels-kampus-8941650.jpg
 profileButton:
-  label: My Profile
+  label: Bio
   link: /profile
 blogButton:
   label: View all posts
   link: /blog
 ---
-Since joining the web-based restaurant review company in its startup phase, **Chandler Villacruz** has spearheaded market research activities that have allowed the firm to build effective advertising campaigns and achieve sound business growth.
+According to Project Play, a collaboration between the Aspen Institute and the Sports and Society Program, 54 percent of American youth from the ages of six to 17 engaged in team sports or took part in sports lessons in 2022. Youth sports provide children with a range of benefits, from improved health to increased opportunities for socialization. Local youth sports programming relies on the support of adults serving in various roles, including youth sports coaches. 
 
-## Heading line here
+Youth sports coaches maintain several responsibilities, such as scheduling and running practices. Before outlining their intentions for a practice session, first-time youth coaches must understand their two key objectives: first and foremost, to ensure the health and safety of all youth athletes, and second, to help athletes develop foundational skills and basic strategies that lead to success in the chosen sport. Practice is a critical tool when serving both of these objectives. 
 
-Since joining the web-based restaurant review company in its startup phase, **Chandler Villacruz** has spearheaded market research activities that have allowed the firm to build effective advertising campaigns and achieve sound business growth.
+Regardless of the specific sport in question, coaches rarely have time to have lengthy discussions with athletes about tactics or form during a game. Whether it is a football game or a track meet, live competitions are highly structured, sometimes stressful events during which coaches should do all that they can to keep players focused, while at the same time having fun. Practice, on the other hand, is a more controlled environment in which coaches and members of their staff can talk to individual players about very specific topics. 
 
-### Heading line here
+In youth baseball, for instance, coaches can use practices as opportunities to run batting practice (BP). During a game, a player might only go up to bat three times and see just a handful of pitches, whereas coaches can utilize BP to hone a batter's skills over dozens of pitches. Coaches can enhance BP by using a batting cage, a structure specifically designed to protect pitchers and keep balls from traveling too far while working on a player's offense. 
 
-Since joining the web-based restaurant review company in its startup phase, **Chandler Villacruz** has spearheaded market research activities that have allowed the firm to build effective advertising campaigns and achieve sound business growth.
+Practice also allows coaches to better look after the health and safety of their players. Accidents and injuries can occur at any time and coaches, along with officials and on-site medical personnel, must be prepared to respond. First aid kits should be accessible during both games and practices. That said, coaches can use practices to increase player stamina and fitness, reducing the chances of fatigue-related injuries. Similarly, practices afford coaches the stress-free environment needed to focus on and correct minor issues with a player's form, such as a softball player's pitching form, which can also cause discomfort or injury. 
 
-#### Heading line here
+If a player is recovering from an injury, practices are a good time to determine if they are physically fit enough to return to competition. Finally, coaches can use practice time to check their player's equipment and make sure everything is functional and properly fitted, further reducing the likelihood of injury. 
 
-**Chandler Villacruz** also led the Food Rates marketing team in creating a successful *user rewards program* that boosted online signups by 10,000 accounts in its first 30 days. For his achievements in his field, the [San Francisco Business Times](file:///home/surajit/Downloads/executives%20(2)/executives/blog-detail.html#) recognized him as one of its “40 Under 40” *business leaders* in 2014.
-
-##### Heading line here
-
-**Chandler Villacruz** launched his career at the San Francisco-based Healthy Living. After only six years with the firm, he advanced from his position of marketing associate to the role of marketing director.
-
-**Mr. Villacruz** obtained a bachelor of business administration in marketing from the Mays Business School at Texas A&M University, where he pursued the Advertising Strategy career track. Subsequently, he earned a master of science in marketing at the University of Southern California.
-
-* **Chandler Villacruz** also led the Food Rates marketing team in creating a successful *user rewards program* that boosted online signups by 10,000 accounts in its first 30 days. For his achievements in his field, the [San Francisco Business Times](file:///home/surajit/Downloads/executives%20(2)/executives/blog-detail.html#) recognized him as one of its “40 Under 40” *business leaders* in 2014.
-* **Chandler Villacruz** launched his career at the San Francisco-based Healthy Living. After only six years with the firm, he advanced from his position of marketing associate to the role of marketing director.
-* **Mr. Villacruz** obtained a bachelor of business administration in marketing from the Mays Business School at Texas A&M University, where he pursued the Advertising Strategy career track. Subsequently, he earned a master of science in marketing at the University of Southern California.
+In some ways, scheduling and organizing a youth sports practice can be more challenging than games and tournaments. Coaches must often schedule and find a location for the practice without the league's assistance, nor do they have an opposing coaching staff to work with. Coaches usually recruit a few parents to function as assistant coaches and help run practices, which may involve multiple groups of players working on different objectives at different times. Coaches should consider beginning each practice with a group warm-up and ending with a cool-down workout, which serves player health and helps mitigate injury risk.
